@@ -1,5 +1,5 @@
-## Study of React-Redux consuming a blog API
-'blog' api from http://jsonplaceholder.typicode.com
+## Personal Study of React, using Redux, consuming a blog API
+blog api from http://jsonplaceholder.typicode.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
